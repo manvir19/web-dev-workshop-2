@@ -1,0 +1,243 @@
+body{
+  padding: 0;
+  padding-top: 0;
+  margin: 0;
+}
+#hhh{
+  text-align: center;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Pacifico', cursive; ;
+  font-size: 40px;
+  color: palevioletred;
+}
+#ii{
+  height: 300px;
+  width: 400px;
+  margin-left: 550px;
+  margin-bottom: 30px;
+  border: 10px solid palevioletred;
+
+}
+#iii{
+  height: 400px;
+  width: 400px;
+  margin-left: 250px;
+  border: 10px solid palevioletred;
+}
+#ok{
+  height: 500px;
+  width: 700px;
+  margin-left: 400px;
+  margin-right: 500px;
+  margin-bottom: 30px;
+  border: 10px solid palevioletred;
+}
+button{
+  background-color: white;
+  /* border-color: white; */
+  color: black;
+  font-size: 30px;
+  margin-left: 400px;
+  margin-bottom: 60px;
+  border-radius: 6px;
+  /* border-width: 15px; */
+  
+}
+#contact{
+  background-color: palevioletred;
+}
+
+.img{
+    background-color: palevioletred;
+    /* font-family: 'Cormorant SC', serif; */
+}
+
+.img1{
+    background-color: palevioletred;
+    font-family: font-family: 'Cormorant SC', serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Pacifico', cursive; ;
+}
+#iii1{
+    height: 450px;
+    width: 300px;
+    
+}
+#iii2{
+  height: 300px;
+  width: 300px;
+  
+}
+#para{
+    /* margin: 30 300 30 300 px; */
+    font-size: 60px;
+    text-align: justify;
+    padding-left: 20px;
+}
+#para1{
+   
+    font-size: 30px;
+   /* padding-left: 40px; */
+   
+}
+#para2{
+    /* margin-top: 0px; */
+    font-size: 30px;
+   padding-left: 110px;
+   padding-right: 55px;
+}
+#para3{
+   
+  font-size: 15px;
+ /* padding-left: 40px; */
+ 
+}
+#para4{
+   
+  font-size: 15px;
+ padding-left: 40px;
+ 
+}
+
+a,h1{
+  padding-left: 20px;
+ 
+}
+
+#h1{
+  font-size: 45px;
+  padding-left: 20px;
+  padding-top: 30px;
+ 
+}
+
+
+td{
+    padding: 15px;
+
+}
+#t1 {
+    border-spacing: 50px;
+    
+  }
+#t2 {
+  border-spacing : 200px;
+  margin-top: -100px;
+  margin-bottom: -100px;
+  margin-left: 150px;
+    /* position: relative; */
+    /* border-collapse: separate; */
+    /* border-spacing: 10px; */
+    /* border-spacing:250px; */
+    /* padding-top: 5px; */
+    /* padding-left: 200px; */
+    
+  }
+  #t4{
+    border-spacing : 80px;
+    margin-left: 220px;
+    margin-top: -340px;
+    
+  }
+  #t5{
+    border-spacing : 70px;
+    margin-left: 180px;
+    margin-top: -215px;
+    
+  }
+  
+
+#t3{
+  border-spacing : 100px;
+  margin-left: 100px;
+  margin-top: -70px;
+  
+
+ 
+}
+  #col{
+    /* width: 400px; */
+    padding-left: 90px;
+    padding-right: 50px;
+  }
+  /* #col1{
+    width: 600px;
+  } */
+  .img3{
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  
+  #heart {
+    position: relative;
+    width: 100px;
+    height: 90px;
+    margin-top: 10px;
+  }
+  
+  #heart::before, #heart::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 52px;
+    height: 80px;
+    border-radius: 50px 50px 0 0;
+    background: palevioletred;
+  }
+  
+  #heart::before {
+    left: 50px;
+    transform: rotate(-45deg);
+    transform-origin: 0 100%;
+  }
+  
+  #heart::after {
+    left: 0;
+    transform: rotate(45deg);
+    transform-origin: 100% 100%;
+  }
+  .outer-1 {
+    background-color:palevioletred;
+    width:100px; /* You can define it by % also */
+    height:100px; /* You can define it by % also*/
+    position:relative;
+   
+    border-radius: 50%;
+    }
+    .inner-1 {
+    background-color:white;
+       top: 12.5%; left: 12.5%; /*of the container  */
+    width:75px; /* of the outer-1 */
+    height:75px; /* of the outer-1 */
+    position: absolute;
+    
+    border-radius: 50%;
+    }
+    .inner-2 {
+    background-color:palevioletred;
+      top: 25%; left: 25%; /*of the container */
+    width:50px; /* of the inner-1 */
+    height:50px; /* of the inner-1 */
+    position: absolute;
+    
+    border-radius: 50%;
+    }
+    .inner-3 {
+        background-color:white;
+          top: 37.5%; left: 37.5%; /*of the container */
+        width:25px; /* of the inner-1 */
+        height:25px; /* of the inner-1 */
+        position: absolute;
+        
+        border-radius: 50%;
+        }
+ #pricing{
+      background-color: palevioletred;
+    }
+#h2{
+  
+  margin-top: -30px;
+  padding-left: 20px;
+}
